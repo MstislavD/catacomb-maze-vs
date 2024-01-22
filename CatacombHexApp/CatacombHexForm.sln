@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatacombHexForm", "CatacombHexForm.csproj", "{1297534F-9AD8-4F6E-A974-CAB5F10D1E2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatacombHex", "..\CatacombHex\CatacombHex.csproj", "{8D34343E-6A76-4ECB-9924-49717A60A84A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grids", "..\Grids\Grids.csproj", "{CECC23A9-632E-4504-8215-72D7CA3CB66B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "..\DataStructures\DataStructures.csproj", "{01CF91F4-0869-4050-BD88-B2FC4D925942}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFormControls", "..\MyFormControls\MyFormControls.csproj", "{AB14BB1E-A7A4-4776-BED8-BE8CEAF8E886}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rendering", "..\Rendering\Rendering.csproj", "{3E23C401-8592-4CCD-AB5C-2ECA7BA52566}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mathematics", "..\Mathematics\Mathematics.csproj", "{126118AE-B9AF-4706-8852-B1505CDE7B84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1297534F-9AD8-4F6E-A974-CAB5F10D1E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1297534F-9AD8-4F6E-A974-CAB5F10D1E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1297534F-9AD8-4F6E-A974-CAB5F10D1E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1297534F-9AD8-4F6E-A974-CAB5F10D1E2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D34343E-6A76-4ECB-9924-49717A60A84A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D34343E-6A76-4ECB-9924-49717A60A84A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D34343E-6A76-4ECB-9924-49717A60A84A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D34343E-6A76-4ECB-9924-49717A60A84A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CECC23A9-632E-4504-8215-72D7CA3CB66B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CECC23A9-632E-4504-8215-72D7CA3CB66B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CECC23A9-632E-4504-8215-72D7CA3CB66B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CECC23A9-632E-4504-8215-72D7CA3CB66B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01CF91F4-0869-4050-BD88-B2FC4D925942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01CF91F4-0869-4050-BD88-B2FC4D925942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01CF91F4-0869-4050-BD88-B2FC4D925942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01CF91F4-0869-4050-BD88-B2FC4D925942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB14BB1E-A7A4-4776-BED8-BE8CEAF8E886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB14BB1E-A7A4-4776-BED8-BE8CEAF8E886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB14BB1E-A7A4-4776-BED8-BE8CEAF8E886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB14BB1E-A7A4-4776-BED8-BE8CEAF8E886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E23C401-8592-4CCD-AB5C-2ECA7BA52566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E23C401-8592-4CCD-AB5C-2ECA7BA52566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E23C401-8592-4CCD-AB5C-2ECA7BA52566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E23C401-8592-4CCD-AB5C-2ECA7BA52566}.Release|Any CPU.Build.0 = Release|Any CPU
+		{126118AE-B9AF-4706-8852-B1505CDE7B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{126118AE-B9AF-4706-8852-B1505CDE7B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{126118AE-B9AF-4706-8852-B1505CDE7B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{126118AE-B9AF-4706-8852-B1505CDE7B84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99F3A996-DB39-4D89-BB9A-3E84EFFB2948}
+	EndGlobalSection
+EndGlobal
