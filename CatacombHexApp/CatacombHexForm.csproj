@@ -84,23 +84,23 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="CatacombHex\CatacombHex.csproj">
+    <ProjectReference Include="..\CatacombHex\CatacombHex.csproj">
       <Project>{8d34343e-6a76-4ecb-9924-49717a60a84a}</Project>
       <Name>CatacombHex</Name>
     </ProjectReference>
-    <ProjectReference Include="DataStructures\DataStructures.csproj">
+    <ProjectReference Include="..\DataStructures\DataStructures.csproj">
       <Project>{01cf91f4-0869-4050-bd88-b2fc4d925942}</Project>
       <Name>DataStructures</Name>
     </ProjectReference>
-    <ProjectReference Include="Grids\Grids.csproj">
+    <ProjectReference Include="..\Grids\Grids.csproj">
       <Project>{cecc23a9-632e-4504-8215-72d7ca3cb66b}</Project>
       <Name>Grids</Name>
     </ProjectReference>
-    <ProjectReference Include="MyFormControls\MyFormControls.csproj">
+    <ProjectReference Include="..\MyFormControls\MyFormControls.csproj">
       <Project>{ab14bb1e-a7a4-4776-bed8-be8ceaf8e886}</Project>
       <Name>MyFormControls</Name>
     </ProjectReference>
-    <ProjectReference Include="Rendering\Rendering.csproj">
+    <ProjectReference Include="..\Rendering\Rendering.csproj">
       <Project>{3e23c401-8592-4ccd-ab5c-2eca7ba52566}</Project>
       <Name>Rendering</Name>
     </ProjectReference>
